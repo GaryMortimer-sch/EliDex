@@ -1,8 +1,0 @@
-
-{
-  "name": "EliDex",
-  "description": "A high-performance Pokedex featuring real-time search, type filtering, and AI-powered insights from Gemini for every Pokemon.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
