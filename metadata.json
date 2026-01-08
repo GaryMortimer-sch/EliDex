@@ -1,0 +1,8 @@
+
+{
+  "name": "EliDex",
+  "description": "Open-source Pokedex with Vision and Voice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
